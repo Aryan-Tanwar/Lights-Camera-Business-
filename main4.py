@@ -12,7 +12,7 @@ def main():
         teamp = st.text_input("Type password for round 1 ")
         if teamp == "T1":
             st.subheader("Your Personality")
-            st.write("**Vijay Malya**")
+            st.write("**Vijay Maly**")
         else:
             st.write("try again incorrect password")
 
