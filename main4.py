@@ -20,7 +20,7 @@ def main():
         password = st.text_input("Type password for round 2")
         if password == "123":
             st.subheader("Your Ministry")
-            st.write("**Ministry of Defence**")
+            st.write("**Ministry of Finance**")
         else:
             st.write("try again incorrect password")
 
@@ -28,7 +28,7 @@ def main():
         password2 = st.text_input("Type password for round 3")
         if password2 == "321":
             st.subheader("Your Company")
-            st.write("**HAL**")
+            st.write("**Tata Capital Financial Services**")
         else:
             st.write("try again incorrect password")
 
@@ -47,7 +47,7 @@ def main():
         password = st.text_input("Type password for round 2")
         if password == "456":
             st.subheader("Your Ministry")
-            st.write("**Ministry of Education**")
+            st.write("**Ministry of Communication**")
         else:
             st.write("try again incorrect password")
 
@@ -55,7 +55,7 @@ def main():
         password2 = st.text_input("Type password for round 3")
         if password2 == "654":
             st.subheader("Your Company")
-            st.write("**Byjus**")
+            st.write("**Reliance Communications**")
         else:
             st.write("try again incorrect password")
 
