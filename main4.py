@@ -12,7 +12,7 @@ def main():
         teamp = st.text_input("Type password for round 1 ")
         if teamp == "T1":
             st.subheader("Your Personality")
-            st.write("**Chanda kochhar**")
+            st.write("**Vijay Mallya**")
         else:
             st.write("try again incorrect password")
 
@@ -28,7 +28,7 @@ def main():
         password2 = st.text_input("Type password for round 3")
         if password2 == "321":
             st.subheader("Your Company")
-            st.write("**Tata Capital Financial Services**")
+            st.write("**HAL**")
         else:
             st.write("try again incorrect password")
 
@@ -39,7 +39,7 @@ def main():
         teamp = st.text_input("Type password for round 1 ")
         if teamp == "T2":
             st.subheader("Your Personality")
-            st.write("**Ramalinga Raju**")
+            st.write("**Mehul Choksi**")
         else:
             st.write("try again incorrect password")
 
@@ -55,7 +55,7 @@ def main():
         password2 = st.text_input("Type password for round 3")
         if password2 == "654":
             st.subheader("Your Company")
-            st.write("**Reliance Communications**")
+            st.write("**Tata Capital Financial Services**")
         else:
             st.write("try again incorrect password")
 
