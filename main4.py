@@ -29,7 +29,7 @@ def main():
         password2 = st.text_input("Type password for round 3")
         if password2 == "24957":
             st.subheader("Your Company")
-            st.write("**TCS**")
+            st.write("**Infosys**")
         else:
             st.write("try again incorrect password")
 
@@ -85,7 +85,7 @@ def main():
         password2 = st.text_input("Type password for round 3")
         if password2 == "94527":
             st.subheader("Your Company")
-            st.write("**Adani Enterprises**")
+            st.write("**Reliance Enterprises**")
         else:
             st.write("try again incorrect password")
 
