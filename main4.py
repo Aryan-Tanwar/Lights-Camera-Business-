@@ -57,7 +57,7 @@ def main():
         password2 = st.text_input("Type password for round 3")
         if password2 == "49679":
             st.subheader("Your Company")
-            st.write("**Bajaj finance**")
+            st.write("**Godrej Agrovet**")
         else:
             st.write("try again incorrect password")
 
@@ -85,7 +85,7 @@ def main():
         password2 = st.text_input("Type password for round 3")
         if password2 == "94527":
             st.subheader("Your Company")
-            st.write("**Reliance Enterprises**")
+            st.write("**Mindtree**")
         else:
             st.write("try again incorrect password")
 
@@ -113,7 +113,7 @@ def main():
         password2 = st.text_input("Type password for round 3")
         if password2 == "97457":
             st.subheader("Your Company")
-            st.write("**Airtel**")
+            st.write("**Bajaj Finance**")
         else:
             st.write("try again incorrect password")
 
@@ -141,7 +141,7 @@ def main():
         password2 = st.text_input("Type password for round 3")
         if password2 == "56935":
             st.subheader("Your Company")
-            st.write("**Airtel**")
+            st.write("**Reliance Industries**")
         else:
             st.write("try again incorrect password")
 
@@ -169,7 +169,7 @@ def main():
         password2 = st.text_input("Type password for round 3")
         if password2 == "47747":
             st.subheader("Your Company")
-            st.write("**Airtel**")
+            st.write("**HAL**")
         else:
             st.write("try again incorrect password")
 
@@ -197,7 +197,7 @@ def main():
         password2 = st.text_input("Type password for round 3")
         if password2 == "68868":
             st.subheader("Your Company")
-            st.write("**Airtel**")
+            st.write("**Byjus**")
         else:
             st.write("try again incorrect password")
 
@@ -225,7 +225,7 @@ def main():
         password2 = st.text_input("Type password for round 3")
         if password2 == "59993":
             st.subheader("Your Company")
-            st.write("**Airtel**")
+            st.write("**TATA Capital Financial Services**")
         else:
             st.write("try again incorrect password")
 
